@@ -1,0 +1,8 @@
+Everything you should know about AI models
+
+Ref: https://dataconomy.com/2023/04/04/best-ai-models-types-how-to-choose-what-is/
+
+AI Models:
+    Building blocks of modern machine learning algorithms - enable machines to learn and perform complex tasks
+    Designed to replicate the human brain's cognitive functions, enabling them to perceive, reason, learn, and make decisions based on data
+
